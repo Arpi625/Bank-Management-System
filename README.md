@@ -14,3 +14,30 @@ A simple Bank Management System built using Java that provides functionalities f
 # Prerequisites:
 - A Java compiler (Gjdk/Clang/MSVC)
 - A terminal or command prompt
+🚀 **How to Run the Project :**
+
+**1.** Clone the repository:
+
+git clone https://github.com/yourusername/Bank-Management-System.git
+
+**2.** Navigate into the project folder:
+
+cd Bank-Management-System
+
+
+**3.** Compile the Java files:
+
+javac *.java
+
+
+**4.** Run the program:
+
+java Main
+
+**📂 Project Structure**
+├── Main.java
+├── Account.java
+├── Bank.java
+├── accounts.txt     (auto-generated file for storing account data)
+└── README.md
+  
