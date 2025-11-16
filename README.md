@@ -1,6 +1,8 @@
 # Bank-Management-System
 
-A simple Bank Management System built using Java that provides functionalities for account creation, balance inquiry, deposit, withdrawal, and account deletion.
+The Bank Management System is a Java-based console application designed to simulate basic banking operations in a simple and efficient way. It allows users to create accounts, manage transactions, check balances, and delete accounts securely. The project emphasizes Object-Oriented Programming (OOP) concepts and uses file handling to store account data persistently, making it a practical example of how real-world banking logic can be implemented in Java.
+
+This project is ideal for beginners learning Java, OOP principles, and file handling techniques. It also serves as a foundation for more complex systems such as GUI-based banking apps or database-driven applications.
 # Features
 - Account creation with unique account numbers
 - Balance inquiry for existing accounts
