@@ -14,6 +14,7 @@ A simple Bank Management System built using Java that provides functionalities f
 # Prerequisites:
 - A Java compiler (Gjdk/Clang/MSVC)
 - A terminal or command prompt
+  
 🚀 **How to Run the Project :**
 
 **1.** Clone the repository:
