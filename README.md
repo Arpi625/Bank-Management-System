@@ -38,9 +38,13 @@ java Main
 **📂 Project Structure**
 
 ├── Main.java
+
 ├── Account.java
+
 ├── Bank.java
+
 ├── accounts.txt     (auto-generated file for storing account data)
+
 └── README.md
 
   
