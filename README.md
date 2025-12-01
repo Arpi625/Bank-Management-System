@@ -19,22 +19,15 @@ This project is ideal for beginners learning Java, OOP principles, and file hand
   
 🚀 **How to Run the Project :**
 
-**1.** Clone the repository:
+**1.** Clone the repository:git clone https://github.com/yourusername/Bank-Management-System.git
 
-git clone https://github.com/yourusername/Bank-Management-System.git
-
-**2.** Navigate into the project folder:
-
-cd Bank-Management-System
+**2.** Navigate into the project folder:cd Bank-Management-System
 
 
-**3.** Compile the Java files:
-
-javac *.java
+**3.** Compile the Java files:javac *.java
 
 
-**4.** Run the program:
-       java Main
+**4.** Run the program:java Main
 
 **📂 Project Structure**
 
