@@ -34,8 +34,7 @@ javac *.java
 
 
 **4.** Run the program:
-
-java Main
+       java Main
 
 **📂 Project Structure**
 
